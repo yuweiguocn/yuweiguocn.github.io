@@ -1,0 +1,2595 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+
+    
+  <url>
+    <loc>http://yoursite.com/android-multiprocess-webview-1/</loc>
+    <lastmod>2021-04-12T11:23:45.281Z</lastmod>
+    <data>
+        <display>
+        <title>有效解决WebView多进程崩溃（续）</title>
+        <pubTime>2021-04-12T11:20:08.000Z</pubTime>
+        
+        <tag>android</tag>
+         
+        <tag>webview</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/write-gradle-plugin/</loc>
+    <lastmod>2021-04-12T03:02:37.400Z</lastmod>
+    <data>
+        <display>
+        <title>自定义Gradle插件</title>
+        <pubTime>2017-06-04T10:58:54.000Z</pubTime>
+        
+        <tag>android</tag>
+         
+        <tag>gradle</tag>
+         
+        <tag>plugin</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/view-hierarchy-animations/</loc>
+    <lastmod>2021-04-12T03:02:37.400Z</lastmod>
+    <data>
+        <display>
+        <title>（译）View层级动画</title>
+        <pubTime>2017-03-03T09:56:35.000Z</pubTime>
+        
+        <tag>android</tag>
+         
+        <tag>animation</tag>
+         
+        <tag>design</tag>
+         
+        <tag>translate</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/using-the-recyclerview/</loc>
+    <lastmod>2021-04-12T03:02:37.399Z</lastmod>
+    <data>
+        <display>
+        <title>（译）RecyclerView的使用</title>
+        <pubTime>2017-04-01T10:26:12.000Z</pubTime>
+        
+        <tag>android</tag>
+         
+        <tag>design</tag>
+         
+        <tag>translate</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/using-the-constraintlayout/</loc>
+    <lastmod>2021-04-12T03:02:37.399Z</lastmod>
+    <data>
+        <display>
+        <title>ConstraintLayout的使用</title>
+        <pubTime>2017-03-22T05:44:09.000Z</pubTime>
+        
+        <tag>android</tag>
+         
+        <tag>support</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/using-the-cardview/</loc>
+    <lastmod>2021-04-12T03:02:37.399Z</lastmod>
+    <data>
+        <display>
+        <title>（译）CardView的使用</title>
+        <pubTime>2017-03-18T07:21:27.000Z</pubTime>
+        
+        <tag>android</tag>
+         
+        <tag>design</tag>
+         
+        <tag>translate</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/using-the-app-toolbar/</loc>
+    <lastmod>2021-04-12T03:02:37.399Z</lastmod>
+    <data>
+        <display>
+        <title>（译）App Toolbar的使用</title>
+        <pubTime>2017-03-14T12:11:12.000Z</pubTime>
+        
+        <tag>android</tag>
+         
+        <tag>design</tag>
+         
+        <tag>translate</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/upgrade-android-studio-3-0/</loc>
+    <lastmod>2021-04-12T03:02:37.399Z</lastmod>
+    <data>
+        <display>
+        <title>踩坑Android Studio 3.0</title>
+        <pubTime>2017-11-01T07:07:41.000Z</pubTime>
+        
+        <tag>android</tag>
+         
+        <tag>android studio</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/understand-proguard-outputs/</loc>
+    <lastmod>2021-04-12T03:02:37.398Z</lastmod>
+    <data>
+        <display>
+        <title>（译）理解混淆的输出</title>
+        <pubTime>2018-07-27T07:01:57.000Z</pubTime>
+        
+        <tag>android</tag>
+         
+        <tag>proguard</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/troubleshooting-proguard-issues-on-android/</loc>
+    <lastmod>2021-04-12T03:02:37.398Z</lastmod>
+    <data>
+        <display>
+        <title>（译）解决Android混淆常见问题</title>
+        <pubTime>2017-10-18T11:00:52.000Z</pubTime>
+        
+        <tag>android</tag>
+         
+        <tag>proguard</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/the-performance-of-constraintlayout/</loc>
+    <lastmod>2021-04-12T03:02:37.398Z</lastmod>
+    <data>
+        <display>
+        <title>（译）理解ConstraintLayout性能上的好处</title>
+        <pubTime>2017-08-30T02:33:52.000Z</pubTime>
+        
+        <tag>android</tag>
+         
+        <tag>support</tag>
+         
+        <tag>translate</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/splash-screens-the-right-way/</loc>
+    <lastmod>2021-04-12T03:02:37.398Z</lastmod>
+    <data>
+        <display>
+        <title>（译）处理Splash Screens的正确姿势</title>
+        <pubTime>2016-06-19T04:16:24.000Z</pubTime>
+        
+        <tag>android ux</tag>
+         
+        <tag>translate</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/shared-element-activity-transition/</loc>
+    <lastmod>2021-04-12T03:02:37.398Z</lastmod>
+    <data>
+        <display>
+        <title>（译）Android 5.0 页面共享元素过渡</title>
+        <pubTime>2017-02-28T12:04:30.000Z</pubTime>
+        
+        <tag>android</tag>
+         
+        <tag>animation</tag>
+         
+        <tag>design</tag>
+         
+        <tag>translate</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/ripple-animation/</loc>
+    <lastmod>2021-04-12T03:02:37.398Z</lastmod>
+    <data>
+        <display>
+        <title>（译）Android水波纹动画</title>
+        <pubTime>2017-03-02T08:54:44.000Z</pubTime>
+        
+        <tag>android</tag>
+         
+        <tag>animation</tag>
+         
+        <tag>design</tag>
+         
+        <tag>translate</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/resolve-react-native-addview-invalid/</loc>
+    <lastmod>2021-04-12T03:02:37.398Z</lastmod>
+    <data>
+        <display>
+        <title>解决ReactNative封装View执行addView页面不刷新</title>
+        <pubTime>2018-04-14T07:40:40.000Z</pubTime>
+        
+        <tag>react</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/react-native-note-7/</loc>
+    <lastmod>2021-04-12T03:02:37.398Z</lastmod>
+    <data>
+        <display>
+        <title>React Native学习笔记（七）</title>
+        <pubTime>2018-03-18T23:56:54.000Z</pubTime>
+        
+        <tag>react</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/react-native-note-6/</loc>
+    <lastmod>2021-04-12T03:02:37.397Z</lastmod>
+    <data>
+        <display>
+        <title>React Native学习笔记（六）</title>
+        <pubTime>2018-03-16T11:31:31.000Z</pubTime>
+        
+        <tag>react</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/react-native-note-5/</loc>
+    <lastmod>2021-04-12T03:02:37.397Z</lastmod>
+    <data>
+        <display>
+        <title>React Native学习笔记（五）</title>
+        <pubTime>2018-03-01T12:27:00.000Z</pubTime>
+        
+        <tag>react</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/react-native-note-4/</loc>
+    <lastmod>2021-04-12T03:02:37.397Z</lastmod>
+    <data>
+        <display>
+        <title>React Native学习笔记（四）</title>
+        <pubTime>2018-02-26T06:21:20.000Z</pubTime>
+        
+        <tag>react</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/react-native-note-3/</loc>
+    <lastmod>2021-04-12T03:02:37.397Z</lastmod>
+    <data>
+        <display>
+        <title>React Native学习笔记（三）</title>
+        <pubTime>2018-01-22T09:09:42.000Z</pubTime>
+        
+        <tag>react</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/react-native-note-2/</loc>
+    <lastmod>2021-04-12T03:02:37.397Z</lastmod>
+    <data>
+        <display>
+        <title>React Native学习笔记（二）</title>
+        <pubTime>2018-01-20T09:20:15.000Z</pubTime>
+        
+        <tag>react</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/react-native-note-1/</loc>
+    <lastmod>2021-04-12T03:02:37.397Z</lastmod>
+    <data>
+        <display>
+        <title>React Native学习笔记（一）</title>
+        <pubTime>2018-01-14T01:47:13.000Z</pubTime>
+        
+        <tag>react</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/react-native-fresco/</loc>
+    <lastmod>2021-04-12T03:02:37.397Z</lastmod>
+    <data>
+        <display>
+        <title>解决React Native页面返回后引起Native页面图片闪屏问题</title>
+        <pubTime>2019-10-19T07:54:36.000Z</pubTime>
+        
+        <tag>react</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/qigsaw-source-2/</loc>
+    <lastmod>2021-04-12T03:02:37.396Z</lastmod>
+    <data>
+        <display>
+        <title>爱奇艺框架Qigsaw插件Application初始化流程</title>
+        <pubTime>2020-05-12T08:20:47.000Z</pubTime>
+        
+        <tag>source</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/qigsaw-source-1/</loc>
+    <lastmod>2021-04-12T03:02:37.396Z</lastmod>
+    <data>
+        <display>
+        <title>爱奇艺框架Qigsaw插件部分源码分析</title>
+        <pubTime>2020-04-20T14:22:06.000Z</pubTime>
+        
+        <tag>source</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/publishing-lib-to-jcenter/</loc>
+    <lastmod>2021-04-12T03:02:37.396Z</lastmod>
+    <data>
+        <display>
+        <title>上传类库到jcenter</title>
+        <pubTime>2016-12-07T08:21:21.000Z</pubTime>
+        
+        <tag>android</tag>
+         
+        <tag>teach</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/proguard-rules/</loc>
+    <lastmod>2021-04-12T03:02:37.396Z</lastmod>
+    <data>
+        <display>
+        <title>（译）混淆器生效的规则来源</title>
+        <pubTime>2018-07-30T07:16:09.000Z</pubTime>
+        
+        <tag>android</tag>
+         
+        <tag>proguard</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/open-source-analysis-block-canary/</loc>
+    <lastmod>2021-04-12T03:02:37.396Z</lastmod>
+    <data>
+        <display>
+        <title>BlockCanary源码解析</title>
+        <pubTime>2017-11-06T12:02:53.000Z</pubTime>
+        
+        <tag>android</tag>
+         
+        <tag>source analysis</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/no-more-findviewbyid/</loc>
+    <lastmod>2021-04-12T03:02:37.396Z</lastmod>
+    <data>
+        <display>
+        <title>（译）Android Data Binding移除findViewById（一）</title>
+        <pubTime>2016-06-29T10:30:27.000Z</pubTime>
+        
+        <tag>android</tag>
+         
+        <tag>data binding</tag>
+         
+        <tag>translate</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/module-apply-dynamic-feature/</loc>
+    <lastmod>2021-04-12T03:02:37.396Z</lastmod>
+    <data>
+        <display>
+        <title>58同城无侵入改造业务库为Dynamic Feature工程的探索和实践</title>
+        <pubTime>2020-10-30T03:06:18.000Z</pubTime>
+        
+        <tag>aab</tag>
+         
+        <tag>android</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/migrating-to-the-appcompat-library/</loc>
+    <lastmod>2021-04-12T03:02:37.395Z</lastmod>
+    <data>
+        <display>
+        <title>（译）迁移到AppCompat Library</title>
+        <pubTime>2017-03-19T04:03:41.000Z</pubTime>
+        
+        <tag>android</tag>
+         
+        <tag>design</tag>
+         
+        <tag>translate</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/migrate-to-androidx/</loc>
+    <lastmod>2021-04-12T03:02:37.395Z</lastmod>
+    <data>
+        <display>
+        <title>58同城迁移到AndroidX实践及Jetifier源码分析</title>
+        <pubTime>2019-12-06T07:33:53.000Z</pubTime>
+        
+        <tag>androidx</tag>
+         
+        <tag>support</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/material-design-primer/</loc>
+    <lastmod>2021-04-12T03:02:37.395Z</lastmod>
+    <data>
+        <display>
+        <title>（译）初识Material Design</title>
+        <pubTime>2017-03-11T08:47:23.000Z</pubTime>
+        
+        <tag>android</tag>
+         
+        <tag>design</tag>
+         
+        <tag>translate</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/mac-tips/</loc>
+    <lastmod>2021-04-12T03:02:37.395Z</lastmod>
+    <data>
+        <display>
+        <title>Mac使用技巧</title>
+        <pubTime>2016-01-17T12:35:29.000Z</pubTime>
+        
+        <tag>mac</tag>
+         
+        <tag>tips</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/mac-tips-2/</loc>
+    <lastmod>2021-04-12T03:02:37.395Z</lastmod>
+    <data>
+        <display>
+        <title>Mac使用技巧（二）</title>
+        <pubTime>2018-03-28T02:28:10.000Z</pubTime>
+        
+        <tag>mac</tag>
+         
+        <tag>tips</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/mac-software-cheatsheet/</loc>
+    <lastmod>2021-04-12T03:02:37.395Z</lastmod>
+    <data>
+        <display>
+        <title>快速查看Mac下软件的所有快捷键— CheatSheet</title>
+        <pubTime>2016-01-25T01:41:23.000Z</pubTime>
+        
+        <tag>mac</tag>
+         
+        <tag>software</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/mac-hexo-github-blog-tech-2/</loc>
+    <lastmod>2021-04-12T03:02:37.395Z</lastmod>
+    <data>
+        <display>
+        <title>Mac下Hexo+GitHub搭建博客（二）</title>
+        <pubTime>2016-09-24T03:10:44.000Z</pubTime>
+        
+        <tag>blog</tag>
+         
+        <tag>hexo</tag>
+         
+        <tag>teach</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/mac-hexo-github-blog-tech-1/</loc>
+    <lastmod>2021-04-12T03:02:37.394Z</lastmod>
+    <data>
+        <display>
+        <title>Mac下Hexo+GitHub搭建博客图文教程（一）</title>
+        <pubTime>2016-02-20T09:05:10.000Z</pubTime>
+        
+        <tag>blog</tag>
+         
+        <tag>hexo</tag>
+         
+        <tag>teach</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/kotlin-note-1/</loc>
+    <lastmod>2021-04-12T03:02:37.394Z</lastmod>
+    <data>
+        <display>
+        <title>Kotlin学习笔记（一）</title>
+        <pubTime>2017-12-04T09:14:20.000Z</pubTime>
+        
+        <tag>android</tag>
+         
+        <tag>kotlin</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/java-volatile/</loc>
+    <lastmod>2021-04-12T03:02:37.394Z</lastmod>
+    <data>
+        <display>
+        <title>Java之 volatile 关键字解析</title>
+        <pubTime>2018-08-08T12:31:29.000Z</pubTime>
+        
+        <tag>interview</tag>
+         
+        <tag>java</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/java-instance/</loc>
+    <lastmod>2021-04-12T03:02:37.394Z</lastmod>
+    <data>
+        <display>
+        <title>Java实现单例模式的正确姿势</title>
+        <pubTime>2016-03-24T05:22:27.000Z</pubTime>
+        
+        <tag>java</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/java-collection/</loc>
+    <lastmod>2021-04-12T03:02:37.394Z</lastmod>
+    <data>
+        <display>
+        <title>java集合类框架</title>
+        <pubTime>2016-01-06T02:56:43.000Z</pubTime>
+        
+        <tag>java</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/java-annotation/</loc>
+    <lastmod>2021-04-12T03:02:37.394Z</lastmod>
+    <data>
+        <display>
+        <title>Java自定义注解</title>
+        <pubTime>2017-07-23T08:58:37.000Z</pubTime>
+        
+        <tag>annotation</tag>
+         
+        <tag>java</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/java-annotation-processor/</loc>
+    <lastmod>2021-04-12T03:02:37.393Z</lastmod>
+    <data>
+        <display>
+        <title>自定义Java注解处理器</title>
+        <pubTime>2017-08-06T03:57:51.000Z</pubTime>
+        
+        <tag>annotation</tag>
+         
+        <tag>java</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/interview-2016-big-company/</loc>
+    <lastmod>2021-04-12T03:02:37.393Z</lastmod>
+    <data>
+        <display>
+        <title>2016Android某公司面试题</title>
+        <pubTime>2016-04-13T14:09:12.000Z</pubTime>
+        
+        <tag>interview</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/improve-dev-build-speed/</loc>
+    <lastmod>2021-04-12T03:02:37.393Z</lastmod>
+    <data>
+        <display>
+        <title>提升Android Studio开发过程的构建速度</title>
+        <pubTime>2017-12-28T08:29:15.000Z</pubTime>
+        
+        <tag>android</tag>
+         
+        <tag>gradle</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/hexo-common-error/</loc>
+    <lastmod>2021-04-12T03:02:37.393Z</lastmod>
+    <data>
+        <display>
+        <title>Hexo常见错误</title>
+        <pubTime>2016-02-15T08:46:30.000Z</pubTime>
+        
+        <tag>error</tag>
+         
+        <tag>hexo</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/handling-scrolls-with-coordinatorlayout/</loc>
+    <lastmod>2021-04-12T03:02:37.393Z</lastmod>
+    <data>
+        <display>
+        <title>（译）使用CoordinatorLayout处理滚动</title>
+        <pubTime>2017-03-13T09:10:07.000Z</pubTime>
+        
+        <tag>android</tag>
+         
+        <tag>design</tag>
+         
+        <tag>translate</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/gradle-summary/</loc>
+    <lastmod>2021-04-12T03:02:37.393Z</lastmod>
+    <data>
+        <display>
+        <title>Gradle脚本常用功能总结</title>
+        <pubTime>2017-11-09T09:32:32.000Z</pubTime>
+        
+        <tag>android</tag>
+         
+        <tag>gradle</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/gradle-new-dependency-configurations/</loc>
+    <lastmod>2021-04-12T03:02:37.392Z</lastmod>
+    <data>
+        <display>
+        <title>Gradle 依赖配置 api VS implementation</title>
+        <pubTime>2017-11-14T12:57:14.000Z</pubTime>
+        
+        <tag>android</tag>
+         
+        <tag>gradle</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/git-gui-gitk/</loc>
+    <lastmod>2021-04-12T03:02:37.392Z</lastmod>
+    <data>
+        <display>
+        <title>git 图形化操作工具——gitk</title>
+        <pubTime>2018-04-14T07:50:19.000Z</pubTime>
+        
+        <tag>git</tag>
+         
+        <tag>tools</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/floating-action-buttons/</loc>
+    <lastmod>2021-04-12T03:02:37.392Z</lastmod>
+    <data>
+        <display>
+        <title>（译）FloatingActionButton的使用</title>
+        <pubTime>2017-03-18T03:37:32.000Z</pubTime>
+        
+        <tag>android</tag>
+         
+        <tag>design</tag>
+         
+        <tag>translate</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/eventbus-3-new-feature/</loc>
+    <lastmod>2021-04-12T03:02:37.392Z</lastmod>
+    <data>
+        <display>
+        <title>EventBus 3.0 新特性</title>
+        <pubTime>2017-07-21T06:03:17.000Z</pubTime>
+        
+        <tag>android</tag>
+         
+        <tag>library</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/easy-host-helm/</loc>
+    <lastmod>2021-04-12T03:02:37.392Z</lastmod>
+    <data>
+        <display>
+        <title>Mac下修改Host超简单的方法——Helm</title>
+        <pubTime>2019-07-27T01:03:26.000Z</pubTime>
+        
+        <tag>mac</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/dynamic-color-using-palettes/</loc>
+    <lastmod>2021-04-12T03:02:37.392Z</lastmod>
+    <data>
+        <display>
+        <title>（译）使用Palettes提取颜色</title>
+        <pubTime>2017-03-10T08:16:15.000Z</pubTime>
+        
+        <tag>android</tag>
+         
+        <tag>design</tag>
+         
+        <tag>translate</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/displaying-the-snackbar/</loc>
+    <lastmod>2021-04-12T03:02:37.392Z</lastmod>
+    <data>
+        <display>
+        <title>（译）Snackbar的使用</title>
+        <pubTime>2017-03-19T02:56:02.000Z</pubTime>
+        
+        <tag>android</tag>
+         
+        <tag>design</tag>
+         
+        <tag>translate</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/disable-auto-android-file-transfer/</loc>
+    <lastmod>2021-04-12T03:02:37.392Z</lastmod>
+    <data>
+        <display>
+        <title>禁止Mac自动打开Android File Transfer</title>
+        <pubTime>2018-07-14T06:34:23.000Z</pubTime>
+        
+        <tag>mac</tag>
+         
+        <tag>tips</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/design-support-library/</loc>
+    <lastmod>2021-04-12T03:02:37.392Z</lastmod>
+    <data>
+        <display>
+        <title>（译）Android材料设计支持库</title>
+        <pubTime>2017-03-08T05:06:57.000Z</pubTime>
+        
+        <tag>android</tag>
+         
+        <tag>design</tag>
+         
+        <tag>translate</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/dagger2-6/</loc>
+    <lastmod>2021-04-12T03:02:37.391Z</lastmod>
+    <data>
+        <display>
+        <title>Dagger 2 在 Android 上的使用（六）</title>
+        <pubTime>2019-02-11T13:32:01.000Z</pubTime>
+        
+        <tag>android</tag>
+         
+        <tag>dagger2</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/dagger2-5/</loc>
+    <lastmod>2021-04-12T03:02:37.391Z</lastmod>
+    <data>
+        <display>
+        <title>Dagger 2 在 Android 上的使用（五）</title>
+        <pubTime>2019-01-19T14:47:59.000Z</pubTime>
+        
+        <tag>android</tag>
+         
+        <tag>dagger2</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/dagger2-4/</loc>
+    <lastmod>2021-04-12T03:02:37.391Z</lastmod>
+    <data>
+        <display>
+        <title>Dagger 2 在 Android 上的使用（四）</title>
+        <pubTime>2019-01-10T14:30:23.000Z</pubTime>
+        
+        <tag>android</tag>
+         
+        <tag>dagger2</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/dagger2-3/</loc>
+    <lastmod>2021-04-12T03:02:37.391Z</lastmod>
+    <data>
+        <display>
+        <title>Dagger 2 在 Android 上的使用（三）</title>
+        <pubTime>2019-01-10T14:24:26.000Z</pubTime>
+        
+        <tag>android</tag>
+         
+        <tag>dagger2</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/dagger2-2/</loc>
+    <lastmod>2021-04-12T03:02:37.391Z</lastmod>
+    <data>
+        <display>
+        <title>Dagger 2 在 Android 上的使用（二）</title>
+        <pubTime>2018-11-10T05:32:52.000Z</pubTime>
+        
+        <tag>android</tag>
+         
+        <tag>dagger2</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/dagger2-1/</loc>
+    <lastmod>2021-04-12T03:02:37.391Z</lastmod>
+    <data>
+        <display>
+        <title>Dagger 2 在 Android 上的使用</title>
+        <pubTime>2018-11-05T13:36:20.000Z</pubTime>
+        
+        <tag>android</tag>
+         
+        <tag>dagger2</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/convert-images-to-webp/</loc>
+    <lastmod>2021-04-12T03:02:37.391Z</lastmod>
+    <data>
+        <display>
+        <title>使用Android Studio批量转换图片为Webp格式</title>
+        <pubTime>2017-07-10T12:27:10.000Z</pubTime>
+        
+        <tag>android</tag>
+         
+        <tag>res</tag>
+         
+        <tag>teach</tag>
+         
+        <tag>webp</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/command-line-autojump/</loc>
+    <lastmod>2021-04-12T03:02:37.390Z</lastmod>
+    <data>
+        <display>
+        <title>命令行福利——切换目录autojump</title>
+        <pubTime>2018-07-14T05:55:40.000Z</pubTime>
+        
+        <tag>tips</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/circular-reveal-animation/</loc>
+    <lastmod>2021-04-12T03:02:37.390Z</lastmod>
+    <data>
+        <display>
+        <title>（译）Android圆形揭露动画</title>
+        <pubTime>2017-03-01T11:46:01.000Z</pubTime>
+        
+        <tag>android</tag>
+         
+        <tag>animation</tag>
+         
+        <tag>design</tag>
+         
+        <tag>translate</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/build-aapt/</loc>
+    <lastmod>2021-04-12T03:02:37.390Z</lastmod>
+    <data>
+        <display>
+        <title>自己动手编译全平台aapt</title>
+        <pubTime>2021-03-17T07:53:34.000Z</pubTime>
+        
+        <tag>aapt</tag>
+         
+        <tag>android</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/bottom-navigation-views/</loc>
+    <lastmod>2021-04-12T03:02:37.390Z</lastmod>
+    <data>
+        <display>
+        <title>（译）BottomNavigationView的使用</title>
+        <pubTime>2017-04-09T14:59:24.000Z</pubTime>
+        
+        <tag>android</tag>
+         
+        <tag>design</tag>
+         
+        <tag>translate</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/aspectj-bcexception/</loc>
+    <lastmod>2021-04-12T03:02:37.390Z</lastmod>
+    <data>
+        <display>
+        <title>一种解决AspectJ报错BCException的思路</title>
+        <pubTime>2020-05-08T10:28:56.000Z</pubTime>
+        
+        <tag>aspectj</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/app-clone/</loc>
+    <lastmod>2021-04-12T03:02:37.390Z</lastmod>
+    <data>
+        <display>
+        <title>解决应用被克隆可能引起的问题</title>
+        <pubTime>2019-12-21T03:30:31.000Z</pubTime>
+        
+        <tag>android</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/apk-size/</loc>
+    <lastmod>2021-04-12T03:02:37.390Z</lastmod>
+    <data>
+        <display>
+        <title>58同城厂商内置包大小减少实战</title>
+        <pubTime>2019-09-15T01:57:14.000Z</pubTime>
+        
+        <tag>android</tag>
+         
+        <tag>apk</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/androidx-security/</loc>
+    <lastmod>2021-04-12T03:02:37.390Z</lastmod>
+    <data>
+        <display>
+        <title>（译）使用AndroidX安全库加密SharedPreferences</title>
+        <pubTime>2020-02-08T10:21:06.000Z</pubTime>
+        
+        <tag>androidx</tag>
+         
+        <tag>security</tag>
+         
+        <tag>translate</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/androidx-fragment/</loc>
+    <lastmod>2021-04-12T03:02:37.389Z</lastmod>
+    <data>
+        <display>
+        <title>（译）Fragment 1.2 新特性</title>
+        <pubTime>2019-11-04T12:58:45.000Z</pubTime>
+        
+        <tag>androidx</tag>
+         
+        <tag>fragment</tag>
+         
+        <tag>translate</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/android-unit-test-3/</loc>
+    <lastmod>2021-04-12T03:02:37.389Z</lastmod>
+    <data>
+        <display>
+        <title>Android单元测试（三）</title>
+        <pubTime>2017-10-13T09:01:08.000Z</pubTime>
+        
+        <tag>android</tag>
+         
+        <tag>unit test</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/android-unit-test-2/</loc>
+    <lastmod>2021-04-12T03:02:37.389Z</lastmod>
+    <data>
+        <display>
+        <title>Android单元测试（二）</title>
+        <pubTime>2017-09-29T06:42:41.000Z</pubTime>
+        
+        <tag>android</tag>
+         
+        <tag>unit test</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/android-unit-test-1/</loc>
+    <lastmod>2021-04-12T03:02:37.389Z</lastmod>
+    <data>
+        <display>
+        <title>Android单元测试（一）</title>
+        <pubTime>2017-09-26T09:15:12.000Z</pubTime>
+        
+        <tag>android</tag>
+         
+        <tag>unit test</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/android-toolbar-theme-bug/</loc>
+    <lastmod>2021-04-12T03:02:37.389Z</lastmod>
+    <data>
+        <display>
+        <title>Toolbar主题Theme.AppCompat.Light.DarkActionBar的使用</title>
+        <pubTime>2016-03-21T07:37:09.000Z</pubTime>
+        
+        <tag>android</tag>
+         
+        <tag>bug</tag>
+         
+        <tag>support</tag>
+         
+        <tag>toolbar</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/android-support-v7-3/</loc>
+    <lastmod>2021-04-12T03:02:37.389Z</lastmod>
+    <data>
+        <display>
+        <title>Android Support V7官方Demo概览（三）</title>
+        <pubTime>2016-05-31T08:35:44.000Z</pubTime>
+        
+        <tag>android</tag>
+         
+        <tag>demo</tag>
+         
+        <tag>support</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/android-support-v7-2/</loc>
+    <lastmod>2021-04-12T03:02:37.388Z</lastmod>
+    <data>
+        <display>
+        <title>Android Support V7官方Demo概览（二）</title>
+        <pubTime>2016-05-27T05:28:56.000Z</pubTime>
+        
+        <tag>android</tag>
+         
+        <tag>demo</tag>
+         
+        <tag>support</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/android-support-v7-1/</loc>
+    <lastmod>2021-04-12T03:02:37.388Z</lastmod>
+    <data>
+        <display>
+        <title>Android Support V7官方Demo概览（一）</title>
+        <pubTime>2016-05-23T02:41:56.000Z</pubTime>
+        
+        <tag>android</tag>
+         
+        <tag>demo</tag>
+         
+        <tag>support</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/android-support-v4-3/</loc>
+    <lastmod>2021-04-12T03:02:37.388Z</lastmod>
+    <data>
+        <display>
+        <title>Android Support V4官方Demo概览（三）</title>
+        <pubTime>2016-05-18T10:39:31.000Z</pubTime>
+        
+        <tag>android</tag>
+         
+        <tag>demo</tag>
+         
+        <tag>support</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/android-support-v4-2/</loc>
+    <lastmod>2021-04-12T03:02:37.387Z</lastmod>
+    <data>
+        <display>
+        <title>Android Support V4官方Demo概览（二）</title>
+        <pubTime>2016-03-17T04:25:31.000Z</pubTime>
+        
+        <tag>android</tag>
+         
+        <tag>demo</tag>
+         
+        <tag>support</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/android-support-v4-1/</loc>
+    <lastmod>2021-04-12T03:02:37.387Z</lastmod>
+    <data>
+        <display>
+        <title>Android Support V4官方Demo概览（一）</title>
+        <pubTime>2016-03-11T09:16:49.000Z</pubTime>
+        
+        <tag>android</tag>
+         
+        <tag>demo</tag>
+         
+        <tag>support</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/android-support-data-binding-3/</loc>
+    <lastmod>2021-04-12T03:02:37.387Z</lastmod>
+    <data>
+        <display>
+        <title>（译）深入理解Data Binding原理</title>
+        <pubTime>2017-07-08T14:07:02.000Z</pubTime>
+        
+        <tag>android</tag>
+         
+        <tag>data binding</tag>
+         
+        <tag>translate</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/android-support-data-binding-2/</loc>
+    <lastmod>2021-04-12T03:02:37.387Z</lastmod>
+    <data>
+        <display>
+        <title>Data Binding使用详解（二）</title>
+        <pubTime>2016-07-14T05:52:47.000Z</pubTime>
+        
+        <tag>android</tag>
+         
+        <tag>data binding</tag>
+         
+        <tag>support</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/android-support-data-binding-1/</loc>
+    <lastmod>2021-04-12T03:02:37.386Z</lastmod>
+    <data>
+        <display>
+        <title>Data Binding使用详解（一）</title>
+        <pubTime>2016-07-12T11:28:30.000Z</pubTime>
+        
+        <tag>android</tag>
+         
+        <tag>data binding</tag>
+         
+        <tag>support</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/android-support-annotation/</loc>
+    <lastmod>2021-04-12T03:02:37.386Z</lastmod>
+    <data>
+        <display>
+        <title>Android Support 注解概览</title>
+        <pubTime>2016-07-06T08:47:19.000Z</pubTime>
+        
+        <tag>android</tag>
+         
+        <tag>support</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/android-summary-event-dispath/</loc>
+    <lastmod>2021-04-12T03:02:37.386Z</lastmod>
+    <data>
+        <display>
+        <title>Android事件分发机制源码分析及总结</title>
+        <pubTime>2016-09-13T12:22:32.000Z</pubTime>
+        
+        <tag>android</tag>
+         
+        <tag>source</tag>
+         
+        <tag>summary</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/android-studio-write-gradle-slow/</loc>
+    <lastmod>2021-04-12T03:02:37.386Z</lastmod>
+    <data>
+        <display>
+        <title>解决Mac下Android Studio编写Gradle文件卡顿</title>
+        <pubTime>2017-06-04T09:07:13.000Z</pubTime>
+        
+        <tag>android</tag>
+         
+        <tag>gradle</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/android-studio-tips-6/</loc>
+    <lastmod>2021-04-12T03:02:37.385Z</lastmod>
+    <data>
+        <display>
+        <title>（译）Android Studio使用技巧系列教程（六）</title>
+        <pubTime>2015-08-10T11:33:38.000Z</pubTime>
+        
+        <tag>android studio</tag>
+         
+        <tag>series</tag>
+         
+        <tag>tips</tag>
+         
+        <tag>translate</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/android-studio-tips-5/</loc>
+    <lastmod>2021-04-12T03:02:37.385Z</lastmod>
+    <data>
+        <display>
+        <title>（译）Android Studio使用技巧系列教程（五）</title>
+        <pubTime>2015-08-03T15:33:38.000Z</pubTime>
+        
+        <tag>android studio</tag>
+         
+        <tag>series</tag>
+         
+        <tag>tips</tag>
+         
+        <tag>translate</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/android-studio-tips-4/</loc>
+    <lastmod>2021-04-12T03:02:37.385Z</lastmod>
+    <data>
+        <display>
+        <title>（译）Android Studio使用技巧系列教程（四）</title>
+        <pubTime>2015-07-28T12:42:38.000Z</pubTime>
+        
+        <tag>android studio</tag>
+         
+        <tag>series</tag>
+         
+        <tag>tips</tag>
+         
+        <tag>translate</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/android-studio-tips-3/</loc>
+    <lastmod>2021-04-12T03:02:37.385Z</lastmod>
+    <data>
+        <display>
+        <title>（译）Android Studio使用技巧系列教程（三）</title>
+        <pubTime>2015-07-22T13:33:38.000Z</pubTime>
+        
+        <tag>android studio</tag>
+         
+        <tag>series</tag>
+         
+        <tag>tips</tag>
+         
+        <tag>translate</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/android-studio-tips-2/</loc>
+    <lastmod>2021-04-12T03:02:37.385Z</lastmod>
+    <data>
+        <display>
+        <title>（译）Android Studio使用技巧系列教程（二）</title>
+        <pubTime>2015-07-14T15:03:38.000Z</pubTime>
+        
+        <tag>android studio</tag>
+         
+        <tag>series</tag>
+         
+        <tag>tips</tag>
+         
+        <tag>translate</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/android-studio-tips-1/</loc>
+    <lastmod>2021-04-12T03:02:37.385Z</lastmod>
+    <data>
+        <display>
+        <title>（译）Android Studio使用技巧系列教程（一）</title>
+        <pubTime>2015-07-08T13:33:38.000Z</pubTime>
+        
+        <tag>android studio</tag>
+         
+        <tag>series</tag>
+         
+        <tag>tips</tag>
+         
+        <tag>translate</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/android-simulate-memory-recycle/</loc>
+    <lastmod>2021-04-12T03:02:37.385Z</lastmod>
+    <data>
+        <display>
+        <title>Android模拟系统内存回收</title>
+        <pubTime>2017-07-17T09:59:11.000Z</pubTime>
+        
+        <tag>android</tag>
+         
+        <tag>teach</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/android-scrollview-nested-listview/</loc>
+    <lastmod>2021-04-12T03:02:37.385Z</lastmod>
+    <data>
+        <display>
+        <title>ScrollView嵌套ListView显示不全解决方案</title>
+        <pubTime>2016-03-24T10:12:08.000Z</pubTime>
+        
+        <tag>android</tag>
+         
+        <tag>solution</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/android-r-inline/</loc>
+    <lastmod>2021-04-12T03:02:37.384Z</lastmod>
+    <data>
+        <display>
+        <title>浅谈Android中的R文件作用以及将R资源inline减少包大小</title>
+        <pubTime>2020-06-29T02:00:53.000Z</pubTime>
+        
+        <tag>android</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/android-multiprocess-webview/</loc>
+    <lastmod>2021-04-12T03:02:37.384Z</lastmod>
+    <data>
+        <display>
+        <title>有效解决WebView多进程崩溃</title>
+        <pubTime>2021-03-24T02:50:18.000Z</pubTime>
+        
+        <tag>android</tag>
+         
+        <tag>webview</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/android-interview-program/</loc>
+    <lastmod>2021-04-12T03:02:37.384Z</lastmod>
+    <data>
+        <display>
+        <title>Android面试——编程算法题</title>
+        <pubTime>2016-04-08T06:30:27.000Z</pubTime>
+        
+        <tag>android</tag>
+         
+        <tag>interview</tag>
+         
+        <tag>program</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/android-interview-peformance/</loc>
+    <lastmod>2021-04-12T03:02:37.384Z</lastmod>
+    <data>
+        <display>
+        <title>Android面试——APP性能优化</title>
+        <pubTime>2016-04-10T01:22:08.000Z</pubTime>
+        
+        <tag>android</tag>
+         
+        <tag>interview</tag>
+         
+        <tag>performance</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/android-interview-list/</loc>
+    <lastmod>2021-04-12T03:02:37.384Z</lastmod>
+    <data>
+        <display>
+        <title>Android面试题集合</title>
+        <pubTime>2016-03-26T04:17:38.000Z</pubTime>
+        
+        <tag>android</tag>
+         
+        <tag>interview</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/android-interview-java/</loc>
+    <lastmod>2021-04-12T03:02:37.384Z</lastmod>
+    <data>
+        <display>
+        <title>Android面试——Java相关</title>
+        <pubTime>2016-04-08T07:12:06.000Z</pubTime>
+        
+        <tag>android</tag>
+         
+        <tag>interview</tag>
+         
+        <tag>java</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/android-interview-basic-1/</loc>
+    <lastmod>2021-04-12T03:02:37.383Z</lastmod>
+    <data>
+        <display>
+        <title>Android面试基础知识总结（一）</title>
+        <pubTime>2016-03-26T06:21:53.000Z</pubTime>
+        
+        <tag>android</tag>
+         
+        <tag>basic</tag>
+         
+        <tag>interview</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/android-h5/</loc>
+    <lastmod>2021-04-12T03:02:37.383Z</lastmod>
+    <data>
+        <display>
+        <title>Android H5秒开方案调研—今日头条H5秒开方案详解</title>
+        <pubTime>2019-05-29T03:54:51.000Z</pubTime>
+        
+        <tag>android</tag>
+         
+        <tag>h5</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/android-guide-service/</loc>
+    <lastmod>2021-04-12T03:02:37.383Z</lastmod>
+    <data>
+        <display>
+        <title>Android开发指南——Service</title>
+        <pubTime>2016-04-02T02:33:10.000Z</pubTime>
+        
+        <tag>android</tag>
+         
+        <tag>basic</tag>
+         
+        <tag>doc</tag>
+         
+        <tag>guide</tag>
+         
+        <tag>service</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/android-guide-bound-service/</loc>
+    <lastmod>2021-04-12T03:02:37.383Z</lastmod>
+    <data>
+        <display>
+        <title>Android开发指南——绑定Service</title>
+        <pubTime>2016-03-31T02:37:24.000Z</pubTime>
+        
+        <tag>android</tag>
+         
+        <tag>basic</tag>
+         
+        <tag>doc</tag>
+         
+        <tag>guide</tag>
+         
+        <tag>service</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/android-guide-aidl/</loc>
+    <lastmod>2021-04-12T03:02:37.383Z</lastmod>
+    <data>
+        <display>
+        <title>Android开发指南——进程间通信AIDL</title>
+        <pubTime>2016-03-31T02:37:33.000Z</pubTime>
+        
+        <tag>aidl</tag>
+         
+        <tag>android</tag>
+         
+        <tag>basic</tag>
+         
+        <tag>doc</tag>
+         
+        <tag>guide</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/android-gradle-dependencies/</loc>
+    <lastmod>2021-04-12T03:02:37.382Z</lastmod>
+    <data>
+        <display>
+        <title>Gradle构建依赖配置说明</title>
+        <pubTime>2017-07-22T14:09:00.000Z</pubTime>
+        
+        <tag>android</tag>
+         
+        <tag>gradle</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/android-fold/</loc>
+    <lastmod>2021-04-12T03:02:37.382Z</lastmod>
+    <data>
+        <display>
+        <title>Android折叠屏手机适配实践</title>
+        <pubTime>2019-05-10T03:52:15.000Z</pubTime>
+        
+        <tag>android</tag>
+         
+        <tag>fold</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/android-design-support-library/</loc>
+    <lastmod>2021-04-12T03:02:37.382Z</lastmod>
+    <data>
+        <display>
+        <title>（译）Android Design Support Library概览</title>
+        <pubTime>2015-08-25T14:03:31.000Z</pubTime>
+        
+        <tag>android</tag>
+         
+        <tag>design</tag>
+         
+        <tag>support</tag>
+         
+        <tag>translate</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/android-data-binding-that-include-thing/</loc>
+    <lastmod>2021-04-12T03:02:37.382Z</lastmod>
+    <data>
+        <display>
+        <title>（译）Android Data Binding移除findViewById（二）</title>
+        <pubTime>2016-07-05T03:45:47.000Z</pubTime>
+        
+        <tag>android</tag>
+         
+        <tag>data binding</tag>
+         
+        <tag>translate</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/android-choice-resource/</loc>
+    <lastmod>2021-04-12T03:02:37.382Z</lastmod>
+    <data>
+        <display>
+        <title>Android图片资源适配规范</title>
+        <pubTime>2017-07-13T02:47:14.000Z</pubTime>
+        
+        <tag>android</tag>
+         
+        <tag>res</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/android-basic-support-fileprovider/</loc>
+    <lastmod>2021-04-12T03:02:37.382Z</lastmod>
+    <data>
+        <display>
+        <title>Android基础Support——FileProvider</title>
+        <pubTime>2016-03-13T03:23:54.000Z</pubTime>
+        
+        <tag>android</tag>
+         
+        <tag>basic</tag>
+         
+        <tag>doc</tag>
+         
+        <tag>support</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/android-basic-shape-drawable/</loc>
+    <lastmod>2021-04-12T03:02:37.382Z</lastmod>
+    <data>
+        <display>
+        <title>Android基础——Shape Drawable</title>
+        <pubTime>2016-11-16T12:37:35.000Z</pubTime>
+        
+        <tag>android</tag>
+         
+        <tag>basic</tag>
+         
+        <tag>resources</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/android-basic-service/</loc>
+    <lastmod>2021-04-12T03:02:37.381Z</lastmod>
+    <data>
+        <display>
+        <title>Android基础——Service</title>
+        <pubTime>2016-03-28T08:43:53.000Z</pubTime>
+        
+        <tag>android</tag>
+         
+        <tag>basic</tag>
+         
+        <tag>doc</tag>
+         
+        <tag>service</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/android-basic-notification/</loc>
+    <lastmod>2021-04-12T03:02:37.381Z</lastmod>
+    <data>
+        <display>
+        <title>Android基础——Notification</title>
+        <pubTime>2016-09-16T01:01:55.000Z</pubTime>
+        
+        <tag>android</tag>
+         
+        <tag>basic</tag>
+         
+        <tag>notification</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/android-basic-intentservice/</loc>
+    <lastmod>2021-04-12T03:02:37.381Z</lastmod>
+    <data>
+        <display>
+        <title>Android基础——IntentService</title>
+        <pubTime>2016-03-31T01:51:39.000Z</pubTime>
+        
+        <tag>android</tag>
+         
+        <tag>basic</tag>
+         
+        <tag>doc</tag>
+         
+        <tag>intentservice</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/android-basic-custom-views-2/</loc>
+    <lastmod>2021-04-12T03:02:37.381Z</lastmod>
+    <data>
+        <display>
+        <title>Android基础——自定义View（二）</title>
+        <pubTime>2016-12-22T04:33:31.000Z</pubTime>
+        
+        <tag>android</tag>
+         
+        <tag>basic</tag>
+         
+        <tag>customviews</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/android-basic-custom-views-1/</loc>
+    <lastmod>2021-04-12T03:02:37.381Z</lastmod>
+    <data>
+        <display>
+        <title>Android基础——自定义View（一）</title>
+        <pubTime>2016-12-19T07:22:27.000Z</pubTime>
+        
+        <tag>android</tag>
+         
+        <tag>basic</tag>
+         
+        <tag>customviews</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/android-basic-broadcast-receiver/</loc>
+    <lastmod>2021-04-12T03:02:37.380Z</lastmod>
+    <data>
+        <display>
+        <title>Android基础——广播接收者BroadcastReceiver</title>
+        <pubTime>2016-04-02T14:24:20.000Z</pubTime>
+        
+        <tag>android</tag>
+         
+        <tag>basic</tag>
+         
+        <tag>broadcast</tag>
+         
+        <tag>doc</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/android-basic-asynctask/</loc>
+    <lastmod>2021-04-12T03:02:37.380Z</lastmod>
+    <data>
+        <display>
+        <title>Android基础——AsyncTask</title>
+        <pubTime>2016-04-10T02:37:05.000Z</pubTime>
+        
+        <tag>android</tag>
+         
+        <tag>asynctask</tag>
+         
+        <tag>basic</tag>
+         
+        <tag>doc</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/android-basic-animation-3/</loc>
+    <lastmod>2021-04-12T03:02:37.380Z</lastmod>
+    <data>
+        <display>
+        <title>Android基础——动画（三）</title>
+        <pubTime>2016-12-10T10:13:40.000Z</pubTime>
+        
+        <tag>android</tag>
+         
+        <tag>animation</tag>
+         
+        <tag>basic</tag>
+         
+        <tag>source</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/android-basic-animation-2/</loc>
+    <lastmod>2021-04-12T03:02:37.380Z</lastmod>
+    <data>
+        <display>
+        <title>Android基础——动画（二）</title>
+        <pubTime>2016-12-01T10:49:28.000Z</pubTime>
+        
+        <tag>android</tag>
+         
+        <tag>animation</tag>
+         
+        <tag>basic</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/android-basic-animation-1/</loc>
+    <lastmod>2021-04-12T03:02:37.380Z</lastmod>
+    <data>
+        <display>
+        <title>Android基础——动画（一）</title>
+        <pubTime>2016-11-13T14:11:43.000Z</pubTime>
+        
+        <tag>android</tag>
+         
+        <tag>animation</tag>
+         
+        <tag>basic</tag>
+         
+        <tag>resources</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/android-avoiding-memory-leaks/</loc>
+    <lastmod>2021-04-12T03:02:37.380Z</lastmod>
+    <data>
+        <display>
+        <title>（译）Android性能优化——避免内存泄露</title>
+        <pubTime>2016-10-01T08:17:08.000Z</pubTime>
+        
+        <tag>android</tag>
+         
+        <tag>performance</tag>
+         
+        <tag>translate</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/android-app-install-type/</loc>
+    <lastmod>2021-04-12T03:02:37.379Z</lastmod>
+    <data>
+        <display>
+        <title>利用PackageInfo判断应用首次安装还是覆盖安装</title>
+        <pubTime>2017-07-28T02:04:32.000Z</pubTime>
+        
+        <tag>android</tag>
+         
+        <tag>solution</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/aar-size-summary/</loc>
+    <lastmod>2021-04-12T03:02:37.379Z</lastmod>
+    <data>
+        <display>
+        <title>快速批量统计aar包大小在58同城的实践</title>
+        <pubTime>2021-03-18T02:55:31.000Z</pubTime>
+        
+        <tag>aar</tag>
+         
+        <tag>android</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+</urlset>

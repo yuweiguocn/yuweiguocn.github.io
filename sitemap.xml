@@ -1,0 +1,914 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://yoursite.com/android-multiprocess-webview-1/</loc>
+    
+    <lastmod>2021-04-12T11:23:45.281Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/write-gradle-plugin/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.400Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/view-hierarchy-animations/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.400Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/using-the-recyclerview/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.399Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/using-the-constraintlayout/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.399Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/using-the-cardview/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.399Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/using-the-app-toolbar/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.399Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/upgrade-android-studio-3-0/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.399Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/understand-proguard-outputs/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.398Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/troubleshooting-proguard-issues-on-android/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.398Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/the-performance-of-constraintlayout/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.398Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/splash-screens-the-right-way/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.398Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/shared-element-activity-transition/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.398Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/ripple-animation/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.398Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/resolve-react-native-addview-invalid/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.398Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/react-native-note-7/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.398Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/react-native-note-6/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.397Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/react-native-note-5/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.397Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/react-native-note-4/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.397Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/react-native-note-3/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.397Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/react-native-note-2/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.397Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/react-native-note-1/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.397Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/react-native-fresco/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.397Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/qigsaw-source-2/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.396Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/qigsaw-source-1/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.396Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/publishing-lib-to-jcenter/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.396Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/proguard-rules/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.396Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/open-source-analysis-block-canary/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.396Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/no-more-findviewbyid/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.396Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/module-apply-dynamic-feature/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.396Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/migrating-to-the-appcompat-library/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.395Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/migrate-to-androidx/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.395Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/material-design-primer/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.395Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/mac-tips/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.395Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/mac-tips-2/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.395Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/mac-software-cheatsheet/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.395Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/mac-hexo-github-blog-tech-2/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.395Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/mac-hexo-github-blog-tech-1/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.394Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/kotlin-note-1/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.394Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/java-volatile/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.394Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/java-instance/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.394Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/java-collection/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.394Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/java-annotation/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.394Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/java-annotation-processor/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.393Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/interview-2016-big-company/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.393Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/improve-dev-build-speed/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.393Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/hexo-common-error/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.393Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/handling-scrolls-with-coordinatorlayout/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.393Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/gradle-summary/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.393Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/gradle-new-dependency-configurations/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.392Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/git-gui-gitk/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.392Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/floating-action-buttons/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.392Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/eventbus-3-new-feature/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.392Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/easy-host-helm/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.392Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/dynamic-color-using-palettes/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.392Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/displaying-the-snackbar/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.392Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/disable-auto-android-file-transfer/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.392Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/design-support-library/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.392Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/dagger2-6/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.391Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/dagger2-5/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.391Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/dagger2-4/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.391Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/dagger2-3/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.391Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/dagger2-2/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.391Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/dagger2-1/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.391Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/convert-images-to-webp/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.391Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/command-line-autojump/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.390Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/circular-reveal-animation/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.390Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/build-aapt/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.390Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/bottom-navigation-views/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.390Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/aspectj-bcexception/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.390Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/app-clone/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.390Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/apk-size/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.390Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/androidx-security/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.390Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/androidx-fragment/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.389Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/android-unit-test-3/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.389Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/android-unit-test-2/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.389Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/android-unit-test-1/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.389Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/android-toolbar-theme-bug/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.389Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/android-support-v7-3/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.389Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/android-support-v7-2/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.388Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/android-support-v7-1/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.388Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/android-support-v4-3/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.388Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/android-support-v4-2/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.387Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/android-support-v4-1/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.387Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/android-support-data-binding-3/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.387Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/android-support-data-binding-2/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.387Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/android-support-data-binding-1/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.386Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/android-support-annotation/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.386Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/android-summary-event-dispath/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.386Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/android-studio-write-gradle-slow/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.386Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/android-studio-tips-6/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.385Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/android-studio-tips-5/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.385Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/android-studio-tips-4/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.385Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/android-studio-tips-3/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.385Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/android-studio-tips-2/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.385Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/android-studio-tips-1/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.385Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/android-simulate-memory-recycle/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.385Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/android-scrollview-nested-listview/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.385Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/android-r-inline/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.384Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/android-multiprocess-webview/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.384Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/android-interview-program/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.384Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/android-interview-peformance/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.384Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/android-interview-list/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.384Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/android-interview-java/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.384Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/android-interview-basic-1/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.383Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/android-h5/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.383Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/android-guide-service/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.383Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/android-guide-bound-service/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.383Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/android-guide-aidl/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.383Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/android-gradle-dependencies/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.382Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/android-fold/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.382Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/android-design-support-library/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.382Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/android-data-binding-that-include-thing/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.382Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/android-choice-resource/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.382Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/android-basic-support-fileprovider/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.382Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/android-basic-shape-drawable/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.382Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/android-basic-service/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.381Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/android-basic-notification/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.381Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/android-basic-intentservice/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.381Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/android-basic-custom-views-2/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.381Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/android-basic-custom-views-1/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.381Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/android-basic-broadcast-receiver/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.380Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/android-basic-asynctask/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.380Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/android-basic-animation-3/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.380Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/android-basic-animation-2/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.380Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/android-basic-animation-1/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.380Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/android-avoiding-memory-leaks/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.380Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/android-app-install-type/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.379Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/aar-size-summary/</loc>
+    
+    <lastmod>2021-04-12T03:02:37.379Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com//404.html</loc>
+    
+    <lastmod>2021-04-12T03:02:37.376Z</lastmod>
+    
+  </url>
+  
+</urlset>
