@@ -9,21 +9,19 @@
   <meta name="renderer" content="webkit">
   <meta http-equiv="X-UA-Compatible" content="IE=edge" >
   <link rel="dns-prefetch" href="http://yoursite.com">
-  <title>Android基础——动画（二） | yuweiguo&#39;s blog</title>
+  <title>【开源】快速批量统计AAR大小 | yuweiguo&#39;s blog</title>
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-  <meta name="description" content="本文介绍了Android中的属性动画的使用。">
+  <meta name="description" content="本文介绍了快速统计AAR大小项目AarPackageSize的使用及注意事项。">
 <meta property="og:type" content="article">
-<meta property="og:title" content="Android基础——动画（二）">
-<meta property="og:url" content="http://yoursite.com/android-basic-animation-2/index.html">
+<meta property="og:title" content="【开源】快速批量统计AAR大小">
+<meta property="og:url" content="http://yoursite.com/open-aar-package-size/index.html">
 <meta property="og:site_name" content="yuweiguo's blog">
-<meta property="og:description" content="本文介绍了Android中的属性动画的使用。">
-<meta property="og:image" content="http://yoursite.com/assets/img/basic/anim/animation-linear.png">
-<meta property="og:image" content="http://yoursite.com/assets/img/basic/anim/animation-nonlinear.png">
-<meta property="og:image" content="http://yoursite.com/assets/img/basic/anim/valueanimator.png">
-<meta property="og:updated_time" content="2021-04-12T03:02:37.380Z">
+<meta property="og:description" content="本文介绍了快速统计AAR大小项目AarPackageSize的使用及注意事项。">
+<meta property="og:image" content="http://yoursite.com/assets/img/aar/aar5.png">
+<meta property="og:updated_time" content="2021-04-14T02:27:14.633Z">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="Android基础——动画（二）">
-<meta name="twitter:description" content="本文介绍了Android中的属性动画的使用。">
+<meta name="twitter:title" content="【开源】快速批量统计AAR大小">
+<meta name="twitter:description" content="本文介绍了快速统计AAR大小项目AarPackageSize的使用及注意事项。">
   
     <link rel="alternative" href="/atom.xml" title="yuweiguo&#39;s blog" type="application/atom+xml">
   
@@ -178,165 +176,47 @@ var _hmt = _hmt || [];
             <canvas data-colors="#eaeaea" data-sectionHeight="100" data-contentId="js-content" id="myCanvas1" class="anm-canvas"></canvas>
           </div>
           <div id="js-content" class="content-ll">
-            <article id="post-android-basic-animation-2" class="article article-type-post " itemscope itemprop="blogPost">
+            <article id="post-open-aar-package-size" class="article article-type-post " itemscope itemprop="blogPost">
   <div class="article-inner">
     
       <header class="article-header">
         
   
     <h1 class="article-title" itemprop="name">
-      Android基础——动画（二）
+      【开源】快速批量统计AAR大小
     </h1>
   
 
         
-        <a href="/android-basic-animation-2/" class="archive-article-date">
-  	<time datetime="2016-12-01T10:49:28.000Z" itemprop="datePublished"><i class="icon-calendar icon"></i>2016-12-01</time>
+        <a href="/open-aar-package-size/" class="archive-article-date">
+  	<time datetime="2021-04-14T02:24:28.000Z" itemprop="datePublished"><i class="icon-calendar icon"></i>2021-04-14</time>
 </a>
         
       </header>
     
     <div class="article-entry" itemprop="articleBody">
       
-        <p>本文介绍了Android中的属性动画的使用。</p>
+        <p>本文介绍了快速统计AAR大小项目AarPackageSize的使用及注意事项。</p>
 <a id="more"></a>
-<p>原文链接：<a href="https://developer.android.com/guide/topics/graphics/prop-animation.html" target="_blank" rel="external">Property Animation</a></p>
-<p>属性动画在Android 3.0（API 11）引入，我们可以利用属性动画修改任何对象的属性值。</p>
-<p>属性动画所支持的特性：</p>
-<ul>
-<li>Duration：动画持续时间，默认为300ms。</li>
-<li>Time interpolation：时间插值器，用来控制动画的速度。</li>
-<li>Repeat count and behavior：重复次数和行为，行为代表是否翻转动画。</li>
-<li>Animator sets：动画集合，可以同时播放或顺序播放或延时播放。</li>
-<li>Frame refresh delay：动画帧刷新的频率，默认为10ms。</li>
+<blockquote>
+<p>《出塞》<br>秦时明月汉时关，万里长征人未还。<br>但使龙城飞将在，不教胡马度阴山。<br>-王昌龄 </p>
+</blockquote>
+<h2 id="Demo效果"><a href="#Demo效果" class="headerlink" title="Demo效果"></a>Demo效果</h2><p>克隆本工程在终端使用python执行如下脚本：</p>
+<figure class="highlight vim"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">python</span> AarPackageSize.<span class="keyword">py</span></span><br></pre></td></tr></table></figure>
+<p><img src="/assets/img/aar/aar5.png" alt=""></p>
+<h2 id="使用"><a href="#使用" class="headerlink" title="使用"></a>使用</h2><p>使用以下命令获取依赖树，在app模块目录下执行如下命令会得到一个名为depends.txt结果文件：</p>
+<figure class="highlight stylus"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">../gradlew -<span class="tag">q</span> dependencies --configuration releaseRuntimeClasspath &gt; depends.txt</span><br></pre></td></tr></table></figure>
+<p>将depends.txt文件复制到本工程下覆盖原文件，在工程根目录下执行python命令，可以在终端看到执行的过程及结果：</p>
+<figure class="highlight vim"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">python</span> AarPackageSize.<span class="keyword">py</span></span><br></pre></td></tr></table></figure>
+<h2 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h2><ol>
+<li>根据实际情况修改app的so架构，默认为armeabi-v7a</li>
+<li>将aar所在的仓库地址配置在本工程中</li>
+<li>在config.json文件中配置依赖分组</li>
+<li>在order.json文件中配置结果输出顺序</li>
+</ol>
+<h2 id="项目地址"><a href="#项目地址" class="headerlink" title="项目地址"></a>项目地址</h2><ul>
+<li><a href="https://github.com/yuweiguocn/AarPackageSize" target="_blank" rel="external">https://github.com/yuweiguocn/AarPackageSize</a></li>
 </ul>
-<h3 id="属性动画的工作原理"><a href="#属性动画的工作原理" class="headerlink" title="属性动画的工作原理"></a>属性动画的工作原理</h3><p>下图说明了假设对一个对象的X属性产生动画，代表了它在屏幕上的水平位置。持续时间设置为40ms，移动的距离为40px。默认帧刷新频率为10ms，对象水平移动10px。这是线性插值器动画的一个例子，表示对象匀速移动。</p>
-<p><img src="/assets/img/basic/anim/animation-linear.png" alt=""></p>
-<p>图1 线性动画的示例</p>
-<p>你也可以设置一个非线性插值器动画。下图说明了假设一个对象在动画开始加速，动画结束减速。对象仍然在40ms移动40px，但是是非线性的。</p>
-<p><img src="/assets/img/basic/anim/animation-nonlinear.png" alt=""></p>
-<p>图2 非线性动画的示例</p>
-<p>我们来详细看下属性动画是怎样计算的。</p>
-<p><img src="/assets/img/basic/anim/valueanimator.png" alt=""></p>
-<p>图3 动画计算流程</p>
-<p>ValueAnimator会追踪动画的时间，例如动画运行了多长时间及属性的当前值。</p>
-<p>ValueAnimator封装了TimeInterpolator用于定义动画插值器，和TypeEvaluator用于定义怎样计算属性值。例如在图2中， TimeInterpolator会是 AccelerateDecelerateInterpolator ，TypeEvaluator 会是 IntEvaluator。</p>
-<p>为了产生动画，创建一个ValueAnimator并给你想要动画的开始和结束的属性值，和动画的持续时间。调用start()方法开始动画。动画持续期间，ValueAnimator会计算出从0到1运行的部分，基于动画的持续时间和运行的时间。运行的部分代表动画完成时间的百分比，0表示0%，1表示100%。例如，在图1中，运行的部分在 t = 10 ms时，将会是0.25，因为持续时间为t = 40 ms。</p>
-<p>当ValueAnimator完成计算运行的部分，它会调用当前设置的TimeInterpolator，用于计算插值部分。插值部分映射运行部分到一个新的部分设置为时间插值。例如，在图2中，因为动画是慢加速，在t = 10 ms时，插值部分大约为0.15，比运行部分0.25少。在图1中，插值部分和运行部分相同。</p>
-<p>当计算完插值部分，为了计算动画的属性值，ValueAnimator 会调用合适的 TypeEvaluator，基于插值部分，开始值和动画的结束值。例如，当t = 10 ms时，插值部分为0.15，因此属性值为0.15*（40-0）为6.</p>
-<h3 id="属性动画和View动画的区别"><a href="#属性动画和View动画的区别" class="headerlink" title="属性动画和View动画的区别"></a>属性动画和View动画的区别</h3><p>View动画只能作用于View对象，并且只能实现缩放、旋转、透明度、移动的动画效果。<br>View动画的另一个缺点是View动画并不能真正改变View的位置。</p>
-<p>属性动画不存在View动画的限制，你可以对任何对象（Views and non-Views）的任何属性产生动画并且对象本身实际会被修改。属性动画也会用更健壮的方式进行动画。当熟练掌握属性动画的使用后，你可以为你想要产生动画的属性指定animators，例如，颜色，位置，或大小和可以定义动画的方面例如插值器和同步多个动画。</p>
-<p>View动画花费更少的时间设置和编写。如果View动画可以完成你的需求，或者原有代码已经实现你想要的效果，就没必要使用属性动画了。这也会让两种动画系统用在不同的情况更有意义。</p>
-<h3 id="API概览"><a href="#API概览" class="headerlink" title="API概览"></a>API概览</h3><p>表1 Animators</p>
-<table>
-<thead>
-<tr>
-<th>Class</th>
-<th>Description</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>ValueAnimator</td>
-<td>属性动画的主要的时间引擎也计算动画的属性值。它有计算动画值所有核心功能和包含每个动画的时间细节，动画是否重复的信息，接收更新事件的监听，和设置自定义评估器类型的能力。属性动画包含两部分：计算动画值和设置这些值到对象上，属性才会产生动画。 ValueAnimator 不能执行第二部分，因此你必须通过ValueAnimator 设置计算值更新的监听，然后用你自己的逻辑修改要产生动画的对象。</td>
-</tr>
-<tr>
-<td>ObjectAnimator</td>
-<td>继承自 ValueAnimator 允许你设置一个目标对象和产生动画的对象属性。这个类会根据它为动画计算的新值更新属性。大多数情况下，我们会使用ObjectAnimator，因为它让在目标对象上的动画值的处理更容易。也有特殊情况，需要直接使用ValueAnimator，因为ObjectAnimator有几个限制，例如对目标对象需要特殊的访问方法。</td>
-</tr>
-<tr>
-<td>AnimatorSet</td>
-<td>动画集合，可以设置动画同时播放，按顺序或指定延时。</td>
-</tr>
-</tbody>
-</table>
-<p>评估器告诉属性动画应该怎么为所给属性计算值。</p>
-<p>表2 Evaluators</p>
-<table>
-<thead>
-<tr>
-<th>Class/Interface</th>
-<th>Description</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>IntEvaluator</td>
-<td>计算Int属性值的默认评估器</td>
-</tr>
-<tr>
-<td>FloatEvaluator</td>
-<td>计算Float属性值的默认评估器</td>
-</tr>
-<tr>
-<td>ArgbEvaluator</td>
-<td>计算Color属性值十六进制表示的默认评估器</td>
-</tr>
-<tr>
-<td>TypeEvaluator</td>
-<td>一个接口，用于自定义评估器</td>
-</tr>
-</tbody>
-</table>
-<p>下面为系统所提供的插值器Interpolators，通过实现TimeInterpolator接口可以自定义插值器。</p>
-<ul>
-<li>AccelerateDecelerateInterpolator</li>
-<li>AccelerateInterpolator</li>
-<li>AnticipateInterpolator</li>
-<li>AnticipateOvershootInterpolator</li>
-<li>BounceInterpolator</li>
-<li>CycleInterpolator</li>
-<li>DecelerateInterpolator</li>
-<li>LinearInterpolator</li>
-<li>OvershootInterpolator</li>
-<li>TimeInterpolator</li>
-</ul>
-<h3 id="使用ValueAnimator产生动画"><a href="#使用ValueAnimator产生动画" class="headerlink" title="使用ValueAnimator产生动画"></a>使用ValueAnimator产生动画</h3><p>通过ValueAnimator可以指定动画值的类型为int，float或color。通过调用它的ofInt(), ofFloat(), 或 ofObject()获取ValueAnimator。例如：<br><figure class="highlight cpp"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">ValueAnimator animation = ValueAnimator.ofFloat(<span class="number">0f</span>, <span class="number">1f</span>);</span><br><span class="line">animation.setDuration(<span class="number">1000</span>);</span><br><span class="line">animation.start();</span><br></pre></td></tr></table></figure></p>
-<p>你也可以指定自定义类型：<br><figure class="highlight dns"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">ValueAnimator animation = ValueAnimator.ofObject(new MyTypeEvaluator(), startPropertyValue, endPropertyValue)<span class="comment">;</span></span><br><span class="line">animation.setDuration(1000)<span class="comment">;</span></span><br><span class="line">animation.start()<span class="comment">;</span></span><br></pre></td></tr></table></figure></p>
-<p>上面的代码片段不会有任何效果，因为ValueAnimator没有在对象或属性上操作。在下面的动画监听部分我们会详细介绍。</p>
-<h3 id="使用ObjectAnimator产生动画"><a href="#使用ObjectAnimator产生动画" class="headerlink" title="使用ObjectAnimator产生动画"></a>使用ObjectAnimator产生动画</h3><p>实例化 ObjectAnimator和 ValueAnimator类似，但是还需要指定对象和对象的属性名称：<br><figure class="highlight cpp"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">ObjectAnimator anim = ObjectAnimator.ofFloat(foo, <span class="string">"alpha"</span>, <span class="number">0f</span>, <span class="number">1f</span>);</span><br><span class="line">anim.setDuration(<span class="number">1000</span>);</span><br><span class="line">anim.start();</span><br></pre></td></tr></table></figure></p>
-<p>为了ObjectAnimator可以正确更新属性，需要做下面的事情：</p>
-<ul>
-<li>作用动画对象的属性必须有setter方法（驼峰式大小写）set<propertyname>()的形式。因为在动画期间ObjectAnimator会自动更新属性，它必须通过这个setter方法访问属性。例如，如果属性名为foo，需要有一个setFoo()方法。如果这个setter方法不存在，你有三个选择：<ul>
-<li>如果可以修改的话，添加一个setter方法。</li>
-<li>如果可以修改的话，使用一个包装类用一个合法的setter方法接收值，传递到原始对象。</li>
-<li>使用ValueAnimator代替</li>
-</ul>
-</propertyname></li>
-<li>如果你只给ObjectAnimator的工厂方法的参数值只设置了一个值，那它将会是动画结束时的值。因此，要动画的对象属性必须还要提供getter方法用于获取动画开始值。getter方法必须是get<propertyname>()形式。例如，属性名为foo，需要有一个getFoo()方法。</propertyname></li>
-<li><p>属性的getter和setter方法必须要和ObjectAnimator指定的开始和结束值的类型一致。如果要构造下面的ObjectAnimator必须要有targetObject.setPropName(float)和targetObject.getPropName(float)：</p>
-<figure class="highlight stylus"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">ObjectAnimator.<span class="function"><span class="title">ofFloat</span><span class="params">(targetObject, <span class="string">"propName"</span>, <span class="number">1</span>f)</span></span></span><br></pre></td></tr></table></figure>
-</li>
-<li><p>依赖于要动画的属性或对象，在View上你可能需要调用invalidate()方法使用更新的动画值强制屏幕重新绘制它。你可以在 onAnimationUpdate()回调方法中做处理。例如，对一个Drawable对象产生颜色属性动画，只会当对象重新绘制才会更新到屏幕上。View的所有属性setter例如 setAlpha() 方法内部会调用invalidate()方法，因此不需要自己处理。</p>
-</li>
-</ul>
-<h3 id="动画集合"><a href="#动画集合" class="headerlink" title="动画集合"></a>动画集合</h3><p>下面的代码来自于API demos中的Bouncing Balls 示例代码（做了简单的修改），动画的播放顺序为：</p>
-<ul>
-<li>播放bounceAnim</li>
-<li>同时播放squashAnim1, squashAnim2, stretchAnim1, 和 stretchAnim2</li>
-<li>播放bounceBackAnim</li>
-<li>播放fadeAnim</li>
-</ul>
-<figure class="highlight dns"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br></pre></td><td class="code"><pre><span class="line">AnimatorSet bouncer = new AnimatorSet()<span class="comment">;</span></span><br><span class="line">bouncer.play(bounceAnim).before(squashAnim1)<span class="comment">;</span></span><br><span class="line">bouncer.play(squashAnim1).with(squashAnim2)<span class="comment">;</span></span><br><span class="line">bouncer.play(squashAnim1).with(stretchAnim1)<span class="comment">;</span></span><br><span class="line">bouncer.play(squashAnim1).with(stretchAnim2)<span class="comment">;</span></span><br><span class="line">bouncer.play(bounceBackAnim).after(stretchAnim2)<span class="comment">;</span></span><br><span class="line">ValueAnimator fadeAnim = ObjectAnimator.ofFloat(newBall, "alpha", 1f, 0f)<span class="comment">;</span></span><br><span class="line">fadeAnim.setDuration(250)<span class="comment">;</span></span><br><span class="line">AnimatorSet animatorSet = new AnimatorSet()<span class="comment">;</span></span><br><span class="line">animatorSet.play(bouncer).before(fadeAnim)<span class="comment">;</span></span><br><span class="line">animatorSet.start()<span class="comment">;</span></span><br></pre></td></tr></table></figure>
-<p>调用play方法会返回一个AnimatorSet.Builder对象，AnimatorSet.Builder是一个实用类，用于帮助添加动画到集合中连同不同动画之间的关系。下面的代码表示当anim1结束同时开始anim2和anim3。anim2和anim3之间没有直接的关系：<br><figure class="highlight applescript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">AnimatorSet s = new AnimatorSet();</span><br><span class="line">s.play(anim1).<span class="keyword">before</span>(anim2).<span class="keyword">before</span>(anim3);</span><br></pre></td></tr></table></figure></p>
-<p>如果你想要当anim1结束开始anim2，当anim2结束再开始anim3，下面的代码正确的表达了这样的关系：<br><figure class="highlight dns"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">AnimatorSet s = new AnimatorSet()<span class="comment">;</span></span><br><span class="line">s.play(anim1).before(anim2)<span class="comment">;</span></span><br><span class="line">s.play(anim2).before(anim3)<span class="comment">;</span></span><br></pre></td></tr></table></figure></p>
-<h3 id="动画监听"><a href="#动画监听" class="headerlink" title="动画监听"></a>动画监听</h3><ul>
-<li><p>Animator.AnimatorListener</p>
-<ul>
-<li>onAnimationStart() - 动画开始被调用</li>
-<li>onAnimationEnd() - 动画结束被调用</li>
-<li>onAnimationRepeat() - 动画重复被调用</li>
-<li>onAnimationCancel() - 动画取消被调用，这也会调用onAnimationEnd()方法。</li>
-</ul>
-</li>
-<li><p>ValueAnimator.AnimatorUpdateListener</p>
-<ul>
-<li>onAnimationUpdate() 动画更新的每一帧都会被调用。当需要在动画期间使用通过ValueAnimator计算生成的值时监听这个事件。通过getAnimatedValue()方法获取当前动画的值。</li>
-</ul>
-</li>
-</ul>
-<p>如果你不想实现 Animator.AnimatorListener接口的所有方法，你可以使用AnimatorListenerAdapter类。</p>
-<p>例如，API demos中的Bouncing Balls示例代码创建了AnimatorListenerAdapter只重写了 onAnimationEnd()回调：<br><figure class="highlight cpp"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">ValueAnimator fadeAnim = ObjectAnimator.ofFloat(newBall, <span class="string">"alpha"</span>, <span class="number">1f</span>, <span class="number">0f</span>);</span><br><span class="line">fadeAnim.setDuration(<span class="number">250</span>);</span><br><span class="line">fadeAnim.addListener(<span class="keyword">new</span> AnimatorListenerAdapter() &#123;</span><br><span class="line"><span class="function"><span class="keyword">public</span> <span class="keyword">void</span> <span class="title">onAnimationEnd</span><span class="params">(Animator animation)</span> </span>&#123;</span><br><span class="line">    balls.remove(((ObjectAnimator)animation).getTarget());</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure></p>
 
       
 
@@ -356,15 +236,11 @@ var _hmt = _hmt || [];
 		<ul class="article-tag-list">
 			 
         		<li class="article-tag-list-item">
+        			<a href="javascript:void(0)" class="js-tag article-tag-list-link color4">aar</a>
+        		</li>
+      		 
+        		<li class="article-tag-list-item">
         			<a href="javascript:void(0)" class="js-tag article-tag-list-link color3">android</a>
-        		</li>
-      		 
-        		<li class="article-tag-list-item">
-        			<a href="javascript:void(0)" class="js-tag article-tag-list-link color5">animation</a>
-        		</li>
-      		 
-        		<li class="article-tag-list-item">
-        			<a href="javascript:void(0)" class="js-tag article-tag-list-link color1">basic</a>
         		</li>
       		
 		</ul>
@@ -420,7 +296,7 @@ var _hmt = _hmt || [];
     <a class="close js-modal-close" href="javascript:;"><i class="icon icon-close"></i></a>
     <p>扫一扫，分享到微信</p>
     <div class="wx-qrcode">
-      <img src="//pan.baidu.com/share/qrcode?url=http://yoursite.com/android-basic-animation-2/" alt="微信分享二维码">
+      <img src="//pan.baidu.com/share/qrcode?url=http://yoursite.com/open-aar-package-size/" alt="微信分享二维码">
     </div>
 </div>
 
@@ -434,18 +310,9 @@ var _hmt = _hmt || [];
   
 <nav id="article-nav">
   
-    <a href="/publishing-lib-to-jcenter/" id="article-nav-newer" class="article-nav-link-wrap">
-      <i class="icon-circle-left"></i>
-      <div class="article-nav-title">
-        
-          上传类库到jcenter
-        
-      </div>
-    </a>
   
-  
-    <a href="/android-basic-shape-drawable/" id="article-nav-older" class="article-nav-link-wrap">
-      <div class="article-nav-title">Android基础——Shape Drawable</div>
+    <a href="/android-multiprocess-webview-1/" id="article-nav-older" class="article-nav-link-wrap">
+      <div class="article-nav-title">有效解决WebView多进程崩溃（续）</div>
       <i class="icon-circle-right"></i>
     </a>
   
@@ -472,7 +339,7 @@ var _hmt = _hmt || [];
                 </span>
                 <span class="tooltip-content">
                     <div class="toc-article">
-                    <ol class="toc"><li class="toc-item toc-level-3"><a class="toc-link" href="#属性动画的工作原理"><span class="toc-number">1.</span> <span class="toc-text">属性动画的工作原理</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#属性动画和View动画的区别"><span class="toc-number">2.</span> <span class="toc-text">属性动画和View动画的区别</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#API概览"><span class="toc-number">3.</span> <span class="toc-text">API概览</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#使用ValueAnimator产生动画"><span class="toc-number">4.</span> <span class="toc-text">使用ValueAnimator产生动画</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#使用ObjectAnimator产生动画"><span class="toc-number">5.</span> <span class="toc-text">使用ObjectAnimator产生动画</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#动画集合"><span class="toc-number">6.</span> <span class="toc-text">动画集合</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#动画监听"><span class="toc-number">7.</span> <span class="toc-text">动画监听</span></a></li></ol>
+                    <ol class="toc"><li class="toc-item toc-level-2"><a class="toc-link" href="#Demo效果"><span class="toc-number">1.</span> <span class="toc-text">Demo效果</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#使用"><span class="toc-number">2.</span> <span class="toc-text">使用</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#注意事项"><span class="toc-number">3.</span> <span class="toc-text">注意事项</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#项目地址"><span class="toc-number">4.</span> <span class="toc-text">项目地址</span></a></li></ol>
                     </div>
                 </span>
             </div>
