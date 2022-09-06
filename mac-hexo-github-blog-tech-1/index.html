@@ -26,7 +26,7 @@
 <meta property="og:image" content="http://img.blog.csdn.net/20160221155753721">
 <meta property="og:image" content="http://img.blog.csdn.net/20160221160147817">
 <meta property="og:image" content="http://img.blog.csdn.net/20160221170224644">
-<meta property="og:updated_time" content="2021-04-12T03:02:37.394Z">
+<meta property="og:updated_time" content="2022-09-06T02:46:40.810Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Mac下Hexo+GitHub搭建博客图文教程（一）">
 <meta name="twitter:description" content="Mac下Hexo+GitHub搭建博客图文教程。">
@@ -236,7 +236,8 @@ var _hmt = _hmt || [];
 <h4 id="安装git部署器"><a href="#安装git部署器" class="headerlink" title="安装git部署器"></a>安装git部署器</h4><blockquote>
 <p>npm install hexo-deployer-git –save</p>
 </blockquote>
-<h4 id="修改配置文件"><a href="#修改配置文件" class="headerlink" title="修改配置文件"></a>修改配置文件</h4><p>打开_config.yml文件，在文件末尾修改为如下效果，Ps:yuweiguocn改为你自己的用户名<br><figure class="highlight less"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="attribute">deploy</span>:</span><br><span class="line">  <span class="attribute">type</span>: git</span><br><span class="line">  <span class="attribute">repo</span>: <span class="attribute">https</span>:<span class="comment">//github.com/yuweiguocn/yuweiguocn.github.io.git</span></span><br><span class="line">  <span class="attribute">branch</span>: master</span><br></pre></td></tr></table></figure></p>
+<h4 id="修改配置文件"><a href="#修改配置文件" class="headerlink" title="修改配置文件"></a>修改配置文件</h4><p>在github上生成token：<br>Github-&gt;Settings-&gt;Developer Settings-&gt;Personal access tokens-&gt;“generate personal access tokens”</p>
+<p>打开_config.yml文件，在文件末尾修改为如下效果，Ps:your_token改为上述生成的token，yuweiguocn改为你自己的用户名<br><figure class="highlight less"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="attribute">deploy</span>:</span><br><span class="line">  <span class="attribute">type</span>: git</span><br><span class="line">  <span class="attribute">repo</span>: <span class="attribute">https</span>:<span class="comment">//your_token@github.com/yuweiguocn/yuweiguocn.github.io.git</span></span><br><span class="line">  <span class="attribute">branch</span>: main</span><br></pre></td></tr></table></figure></p>
 <p><img src="http://img.blog.csdn.net/20160221155113750" alt="这里写图片描述"></p>
 <h4 id="部署"><a href="#部署" class="headerlink" title="部署"></a>部署</h4><p>在hexo目录下执行部署命令：</p>
 <blockquote>

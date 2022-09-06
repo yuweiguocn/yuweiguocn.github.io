@@ -4,6 +4,27 @@
 
     
   <url>
+    <loc>http://yoursite.com/mac-hexo-github-blog-tech-1/</loc>
+    <lastmod>2022-09-06T02:46:40.810Z</lastmod>
+    <data>
+        <display>
+        <title>Mac下Hexo+GitHub搭建博客图文教程（一）</title>
+        <pubTime>2016-02-20T09:05:10.000Z</pubTime>
+        
+        <tag>blog</tag>
+         
+        <tag>hexo</tag>
+         
+        <tag>teach</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://yoursite.com/android-reverse/</loc>
     <lastmod>2022-09-05T09:01:13.376Z</lastmod>
     <data>
@@ -757,27 +778,6 @@
         <display>
         <title>Mac下Hexo+GitHub搭建博客（二）</title>
         <pubTime>2016-09-24T03:10:44.000Z</pubTime>
-        
-        <tag>blog</tag>
-         
-        <tag>hexo</tag>
-         
-        <tag>teach</tag>
-         
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://yoursite.com/mac-hexo-github-blog-tech-1/</loc>
-    <lastmod>2021-04-12T03:02:37.394Z</lastmod>
-    <data>
-        <display>
-        <title>Mac下Hexo+GitHub搭建博客图文教程（一）</title>
-        <pubTime>2016-02-20T09:05:10.000Z</pubTime>
         
         <tag>blog</tag>
          
