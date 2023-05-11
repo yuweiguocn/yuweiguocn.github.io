@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/git-gui-gitk/</loc>
+    
+    <lastmod>2023-05-11T12:02:28.317Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/ai-painting-1/</loc>
     
     <lastmod>2023-04-27T06:58:11.330Z</lastmod>
@@ -374,13 +381,6 @@
   
   <url>
     <loc>http://yoursite.com/gradle-new-dependency-configurations/</loc>
-    
-    <lastmod>2021-04-12T03:02:37.392Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/git-gui-gitk/</loc>
     
     <lastmod>2021-04-12T03:02:37.392Z</lastmod>
     

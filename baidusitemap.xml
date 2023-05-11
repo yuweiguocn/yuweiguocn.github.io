@@ -4,6 +4,25 @@
 
     
   <url>
+    <loc>http://yoursite.com/git-gui-gitk/</loc>
+    <lastmod>2023-05-11T12:02:28.317Z</lastmod>
+    <data>
+        <display>
+        <title>git 图形化操作工具——gitk</title>
+        <pubTime>2018-04-14T07:50:19.000Z</pubTime>
+        
+        <tag>git</tag>
+         
+        <tag>tools</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://yoursite.com/ai-painting-1/</loc>
     <lastmod>2023-04-27T06:58:11.330Z</lastmod>
     <data>
@@ -1025,25 +1044,6 @@
         <tag>android</tag>
          
         <tag>gradle</tag>
-         
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://yoursite.com/git-gui-gitk/</loc>
-    <lastmod>2021-04-12T03:02:37.392Z</lastmod>
-    <data>
-        <display>
-        <title>git 图形化操作工具——gitk</title>
-        <pubTime>2018-04-14T07:50:19.000Z</pubTime>
-        
-        <tag>git</tag>
-         
-        <tag>tools</tag>
          
          
            
